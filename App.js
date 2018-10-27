@@ -47,7 +47,7 @@ export default class App extends Component {
           <TextInput value={this.state.name} onChange={this.handleChange} placeholder={"Enter your name here"} />
           <Image style={styles.imageProfile} source={imageSource} />
           <UserProfiles name={"name"} surname={"surname"} />
-          <UserProfiles name={"Faruk"} surname={"Bruncevic"} />
+          <UserProfiles name={"Faruk"} surname={"Brunkoglu"} />
         </View>
       </View>
     );
