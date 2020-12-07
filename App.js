@@ -15,7 +15,7 @@ const instructions = Platform.select({
 export default class App extends Component {
 
   state = {
-    name: '',
+    name: 'a',
     surname: ''
   }
 
