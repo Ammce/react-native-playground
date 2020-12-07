@@ -16,7 +16,7 @@ export default class App extends Component {
 
   state = {
     name: '',
-    surname: ' '
+    surname: ''
   }
 
   handleSubmit = () => {
